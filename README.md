@@ -2,9 +2,11 @@
 
 ### About me
 
-- 💡 My primary interests are blockchain technologies ⛓ and algorithms 🚦
-- 🏗️ I’m currently working on [cheqd](https://github.com/cheqd)
-
+- Aries of interest: Blockchain, Architecture, Algorithms, Hogh Load
+- Languages: Rust (absolute favorite), Go, JavaScript, TypeScript, C#, Java. Python, C++, C
+- Technologies:
+  - Blockchain: Tendermint, Cosmos SDK, Exonum
+  - Backend: 
 
 ### My GitHub stats
 
