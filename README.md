@@ -1,6 +1,12 @@
 ## 👋 Hi there. I'm Alex, Software Engineer
 
-### ⚡ My GitHub stats
+### About me
+
+- 💡 My primary interests are blockchain technologies ⛓ and algorithms 🚦
+- 🏗️ I’m currently working on [cheqd](https://github.com/cheqd)
+
+
+### My GitHub stats
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=askolesov&show_icons=true&theme=vue)
 ![Alex's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=askolesov&theme=vue)
