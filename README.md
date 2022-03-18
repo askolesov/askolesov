@@ -9,7 +9,6 @@
   - Backend: ASP.NET Web Api, Rocket, Express
   - Frontend: Angular
   - Databases: MSSQL, MySQL, LevelDB, RocksDB, DynamoDB
-- OSs: Linux, MacOS, Windows
 
 ### Contact me
 
